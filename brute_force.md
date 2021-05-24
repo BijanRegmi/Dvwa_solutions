@@ -1,0 +1,5 @@
+- Get the request from burpsuite.
+- Send to intruder
+- Set param
+- Load wordlist
+- Start attack
